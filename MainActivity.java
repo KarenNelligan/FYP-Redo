@@ -92,16 +92,16 @@ public class MainActivity extends Activity {
         return false;
     }
 
-
+/*
 
     public void readToFile(View view) {
-    /*
+
     Title Java File: Reading and Writing Files in Java
     Author John Purcell
     Site name caveofprogramming.com
     Date 2015
     Availability https://www.caveofprogramming.com/java/java-file-reading-and-writing-files-in-java.html (Accessed 28 April 2015)
-     */
+
         String fileName = outputFile;
 
         try {
@@ -155,6 +155,6 @@ public class MainActivity extends Activity {
             ie.printStackTrace();
         }
 
-    }
+    }*/
 }
 
